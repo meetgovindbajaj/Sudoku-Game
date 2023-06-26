@@ -28,7 +28,7 @@ Language Used : Java (Project is build on Java Swing Library)
 - JButton is used to create buttons ranging from 1 to 9 and 4 main control buttons.
 
  ### How to run?
- - Download the setup.exe file and run the setup file.
+ - Download the [setup file ⬇️](https://github.com/meetgovindbajaj/Sudoku-Game/blob/main/setup.exe) and run the setup file.
 
 ### Some Screenshots of the game
 - Starting Screen
